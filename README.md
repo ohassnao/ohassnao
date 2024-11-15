@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HASSNAOUI Oussama</h1>
-<h3 align="center">IT and Data Engineering Student</h3>
+<h3 align="center">Futur Data Engineer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ohassnao" target="_blank">
