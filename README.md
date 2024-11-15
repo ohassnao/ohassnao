@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📚 Final-year student at ENSA Khouribga in **Data Engineering **.
+- 📚 Final-year student at ENSA Khouribga in **Data Engineering**.
 - 🌐 Skilled in building scalable data pipelines, real-time systems, and machine learning solutions.
 - 🔭 Currently working on **Marketing Campaign Analysis with Power BI and Machine Learning**.
 - 💼 Seeking opportunities in **Data Engineering** and **Data Science**.
