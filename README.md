@@ -26,7 +26,7 @@
 ### 🛠️ Technologies and Tools:
 
 #### Programming Languages:
-- Java, Python, Scala, TypeScript, C++, C
+- Java, Python, Scala, TypeScript
 
 #### Data Engineering:
 - **Big Data Tools:** Apache Kafka, Spark, Airflow, Hadoop, Cassandra
